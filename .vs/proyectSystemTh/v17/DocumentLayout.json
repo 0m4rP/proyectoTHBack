@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|c:\\users\\omar penagos\\source\\repos\\proyectsystemth\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|solutionrelative:controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|c:\\users\\omar penagos\\source\\repos\\proyectsystemth\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|c:\\users\\omar penagos\\source\\repos\\proyectsystemth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|c:\\users\\omar penagos\\source\\repos\\proyectsystemth\\services\\accessusers\\accessusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|solutionrelative:services\\accessusers\\accessusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|c:\\users\\omar penagos\\source\\repos\\proyectsystemth\\services\\accessusers\\iaccessusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|solutionrelative:services\\accessusers\\iaccessusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|c:\\users\\omar penagos\\source\\repos\\proyectsystemth\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|c:\\users\\omar penagos\\source\\repos\\proyectsystemth\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|c:\\users\\omar penagos\\source\\repos\\proyectsystemth\\dtos\\usuariossistemadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|solutionrelative:dtos\\usuariossistemadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|c:\\users\\omar penagos\\source\\repos\\proyectsystemth\\services\\usuariossistema\\usuariossistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|solutionrelative:services\\usuariossistema\\usuariossistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|c:\\users\\omar penagos\\source\\repos\\proyectsystemth\\models\\usuariosistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|solutionrelative:models\\usuariosistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|c:\\users\\omar penagos\\source\\repos\\proyectsystemth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|c:\\users\\omar penagos\\source\\repos\\proyectsystemth\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|c:\\users\\omar penagos\\source\\repos\\proyectsystemth\\services\\usuariossistema\\iusuariossistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|solutionrelative:services\\usuariossistema\\iusuariossistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|c:\\users\\omar penagos\\source\\repos\\proyectsystemth\\dtos\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F87ABB1-F277-4D75-9CFC-DC11AC3F0C05}|proyectSystemTh.csproj|solutionrelative:dtos\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccessUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\Services\\AccessUsers\\IAccessUsers.cs",
+              "RelativeDocumentMoniker": "Services\\AccessUsers\\IAccessUsers.cs",
+              "ToolTip": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\Services\\AccessUsers\\IAccessUsers.cs",
+              "RelativeToolTip": "Services\\AccessUsers\\IAccessUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:18:58.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccessUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\Services\\AccessUsers\\AccessUsers.cs",
+              "RelativeDocumentMoniker": "Services\\AccessUsers\\AccessUsers.cs",
+              "ToolTip": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\Services\\AccessUsers\\AccessUsers.cs",
+              "RelativeToolTip": "Services\\AccessUsers\\AccessUsers.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAgwGMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:18:44.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuariosSistemaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\DTOs\\UsuariosSistemaDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UsuariosSistemaDTO.cs",
+              "ToolTip": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\DTOs\\UsuariosSistemaDTO.cs",
+              "RelativeToolTip": "DTOs\\UsuariosSistemaDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:30:22.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T03:24:08.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioSistema.cs",
+              "DocumentMoniker": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\Models\\UsuarioSistema.cs",
+              "RelativeDocumentMoniker": "Models\\UsuarioSistema.cs",
+              "ToolTip": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\Models\\UsuarioSistema.cs",
+              "RelativeToolTip": "Models\\UsuarioSistema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:06:31.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:08:48.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T03:21:24.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\DTOs\\Empleado.cs",
+              "RelativeDocumentMoniker": "DTOs\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\DTOs\\Empleado.cs",
+              "RelativeToolTip": "DTOs\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T21:19:48.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-07T18:07:57.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioSController.cs",
+              "DocumentMoniker": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\Controllers\\UsuarioSController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioSController.cs",
+              "ToolTip": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\Controllers\\UsuarioSController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioSController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:40:09.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Controllers\\AccessController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:15:03.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuariosSistema.cs",
+              "DocumentMoniker": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\Services\\UsuariosSistema\\UsuariosSistema.cs",
+              "RelativeDocumentMoniker": "Services\\UsuariosSistema\\UsuariosSistema.cs",
+              "ToolTip": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\Services\\UsuariosSistema\\UsuariosSistema.cs",
+              "RelativeToolTip": "Services\\UsuariosSistema\\UsuariosSistema.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:14:21.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUsuariosSistema.cs",
+              "DocumentMoniker": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\Services\\UsuariosSistema\\IUsuariosSistema.cs",
+              "RelativeDocumentMoniker": "Services\\UsuariosSistema\\IUsuariosSistema.cs",
+              "ToolTip": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\Services\\UsuariosSistema\\IUsuariosSistema.cs",
+              "RelativeToolTip": "Services\\UsuariosSistema\\IUsuariosSistema.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:14:43.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Omar Penagos\\source\\repos\\proyectSystemTh\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:02:43.554Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

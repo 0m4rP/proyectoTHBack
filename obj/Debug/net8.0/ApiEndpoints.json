@@ -1,0 +1,159 @@
+[
+  {
+    "ContainingType": "proyectSystemTh.Controllers.AccessController",
+    "Method": "LoginUser",
+    "RelativePath": "api/Access/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "proyectSystemTh.DTOs.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "proyectSystemTh.DTOs.AuthDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "proyectSystemTh.Controllers.AccessController",
+    "Method": "RegisterUser",
+    "RelativePath": "api/Access/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "proyectSystemTh.DTOs.UsuarioSistemaCreateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "proyectSystemTh.DTOs.AuthDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "proyectSystemTh.Controllers.AccessController",
+    "Method": "verifyUser",
+    "RelativePath": "api/Access/verifyUser/{userName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "proyectSystemTh.DTOs.AuthDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "proyectSystemTh.Controllers.UsuarioSController",
+    "Method": "createUser",
+    "RelativePath": "api/UsuarioS/createUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuariosSistema",
+        "Type": "proyectSystemTh.DTOs.UsuarioSistemaCreateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "proyectSystemTh.Controllers.UsuarioSController",
+    "Method": "deleteUsers",
+    "RelativePath": "api/UsuarioS/deleteUser/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "proyectSystemTh.Controllers.UsuarioSController",
+    "Method": "getAllUsers",
+    "RelativePath": "api/UsuarioS/getUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "proyectSystemTh.Controllers.UsuarioSController",
+    "Method": "getUserById",
+    "RelativePath": "api/UsuarioS/getUsers/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "proyectSystemTh.Controllers.UsuarioSController",
+    "Method": "updateUsers",
+    "RelativePath": "api/UsuarioS/updateUsers/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "usuario",
+        "Type": "proyectSystemTh.DTOs.UsuarioSistemaCreateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
