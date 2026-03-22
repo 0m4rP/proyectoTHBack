@@ -107,3 +107,4 @@ C:\Users\Omar Penagos\source\repos\proyectSystemTh\obj\Debug\net8.0\proyectSyste
 C:\Users\Omar Penagos\source\repos\proyectSystemTh\obj\Debug\net8.0\ref\proyectSystemTh.dll
 C:\Users\Omar Penagos\source\repos\proyectSystemTh\bin\Debug\net8.0\DevOne.Security.Cryptography.BCrypt.dll
 C:\Users\Omar Penagos\source\repos\proyectSystemTh\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\Omar Penagos\source\repos\proyectSystemTh\obj\Debug\net8.0\proyectSystemTh.sourcelink.json

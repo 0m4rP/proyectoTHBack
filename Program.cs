@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using proyectSystemTh.Data;
 using proyectSystemTh.Services.AccessUsers;
+using proyectSystemTh.Services.InfoUsers;
 using proyectSystemTh.Services.UsuariosSistema;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,6 +14,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 //Secciones de Scopped
 builder.Services.AddScoped<IUsuariosSistema, UsuariosSistema>();
 builder.Services.AddScoped<IAccessUsers, AccessUsers>();
+builder.Services.AddScoped<IInfoUsers, InforUsers>();
 
 // Add services to the container.
 builder.Services.AddControllers();

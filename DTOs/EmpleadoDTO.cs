@@ -29,5 +29,9 @@
         public sbyte? EstadoEmpleado { get; set; }
         public int DepartamentoIdDepartamento { get; set; }
         public string? NombreDepartamento { get; set; }
+        public int VacacionesDisponibles { get; set; }
+        public int VacacionesTomadas { get; set; }
+
+
     }
 }

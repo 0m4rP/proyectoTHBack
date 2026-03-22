@@ -26,6 +26,7 @@ public partial class Empleado
     public sbyte? EstadoEmpleado { get; set; }
 
     public int DepartamentoIdDepartamento { get; set; }
+    public int DiasTomados { get; set; }
 
     public virtual ICollection<Contrato> Contratos { get; set; } = new List<Contrato>();
 

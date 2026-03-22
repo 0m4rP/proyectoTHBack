@@ -78,6 +78,32 @@
     ]
   },
   {
+    "ContainingType": "proyectSystemTh.Controllers.InfoUsersController",
+    "Method": "GetInfo",
+    "RelativePath": "api/InfoUsers/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "proyectSystemTh.DTOs.EmpleadoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "proyectSystemTh.Controllers.UsuarioSController",
     "Method": "createUser",
     "RelativePath": "api/UsuarioS/createUser",

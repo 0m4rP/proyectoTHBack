@@ -140,6 +140,46 @@
         }
       }
     },
+    "/api/InfoUsers/{id}": {
+      "get": {
+        "tags": [
+          "InfoUsers"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/EmpleadoDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EmpleadoDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EmpleadoDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/UsuarioS/getUsers": {
       "get": {
         "tags": [
@@ -290,6 +330,74 @@
           },
           "user": {
             "$ref": "#/components/schemas/UsuarioSistemaCreateDTO"
+          }
+        },
+        "additionalProperties": false
+      },
+      "EmpleadoDTO": {
+        "type": "object",
+        "properties": {
+          "idEmpleado": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nombreEmpleado": {
+            "type": "string",
+            "nullable": true
+          },
+          "apellidoEmpleado": {
+            "type": "string",
+            "nullable": true
+          },
+          "nombreCompleto": {
+            "type": "string",
+            "nullable": true,
+            "readOnly": true
+          },
+          "fechaNacimiento": {
+            "type": "string",
+            "format": "date"
+          },
+          "direccionEmpleado": {
+            "type": "string",
+            "nullable": true
+          },
+          "telefonoEmpleado": {
+            "type": "string",
+            "nullable": true
+          },
+          "correo": {
+            "type": "string",
+            "nullable": true
+          },
+          "cargo": {
+            "type": "string",
+            "nullable": true
+          },
+          "fechaContrato": {
+            "type": "string",
+            "format": "date"
+          },
+          "estadoEmpleado": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "departamentoIdDepartamento": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nombreDepartamento": {
+            "type": "string",
+            "nullable": true
+          },
+          "vacacionesDisponibles": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "vacacionesTomadas": {
+            "type": "integer",
+            "format": "int32"
           }
         },
         "additionalProperties": false
