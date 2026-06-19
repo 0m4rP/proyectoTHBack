@@ -2,7 +2,11 @@ using Microsoft.EntityFrameworkCore;
 using proyectSystemTh.Data;
 using proyectSystemTh.Services.AccessUsers;
 using proyectSystemTh.Services.InfoUsers;
+using proyectSystemTh.Services.Solicitudes;
 using proyectSystemTh.Services.UsuariosSistema;
+using QuestPDF.Infrastructure;
+
+QuestPDF.Settings.License = LicenseType.Community;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +19,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 builder.Services.AddScoped<IUsuariosSistema, UsuariosSistema>();
 builder.Services.AddScoped<IAccessUsers, AccessUsers>();
 builder.Services.AddScoped<IInfoUsers, InforUsers>();
+builder.Services.AddScoped<ISolicitudesService, SolicitudesService>();
 
 // Add services to the container.
 builder.Services.AddControllers();
@@ -31,7 +36,6 @@ builder.Services.AddCors(options =>
         });
 });
 
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -46,7 +50,7 @@ if (app.Environment.IsDevelopment())
 }
 else
 {
-    app.UseCors("AllowAngularApp"); // En producción usa la política específica
+    app.UseCors("AllowAngularApp"); 
 }
 
 app.UseHttpsRedirection();

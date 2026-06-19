@@ -21,10 +21,6 @@ namespace proyectSystemTh.Services.InfoUsers
 
             //lógica de vacaiones
             DateTime hoy = DateTime.Today;
-            // Reemplaza esta línea:
-            // DateTime inicio = usuario.FechaContrato;
-
-            // Por esta conversión explícita de DateOnly a DateTime:
             DateTime inicio = usuario.FechaContrato.ToDateTime(TimeOnly.MinValue);
 
             int tiempoAntiguedad = ((hoy.Year - inicio.Year) * 12) + hoy.Month - inicio.Month;

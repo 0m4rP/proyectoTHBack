@@ -21,6 +21,8 @@ public partial class ApplicationDbContext : DbContext
 
     public virtual DbSet<Contrato> Contratos { get; set; }
 
+    public DbSet<Nomina> Nominas { get; set; }
+
     public virtual DbSet<Departamento> Departamentos { get; set; }
 
     public virtual DbSet<Empleado> Empleados { get; set; }
